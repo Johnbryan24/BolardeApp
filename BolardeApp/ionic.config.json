@@ -1,0 +1,7 @@
+{
+  "name": "BolardeApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

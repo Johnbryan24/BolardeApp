@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BolardeApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
